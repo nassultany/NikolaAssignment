@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "address": "45 Coventry lane",
+    "first name": "Rob",
+    "last name": "Middleton"
+  },
+  {
+    "id": 2,
+    "address": "4059 Desert Broom Court",
+    "first name": "Andrew",
+    "last name": "Shaffer"
+  },
+  {
+    "id": 3,
+    "address": "4115 Honeysuckle Lane",
+    "first name": "Ryan",
+    "last name": "Cooper"
+  },
+  {
+    "id": 4,
+    "address": "3989 Star Trek Drive",
+    "first name": "Jason",
+    "last name": "Haugh"
+  },
+  {
+    "id": 5,
+    "address": "1924 Chandler Hollow Road",
+    "first name": "Mercedes",
+    "last name": "Reinhart"
+  }
+]
